@@ -1,0 +1,6 @@
+musteri,cinsiyet,satis,sinif
+1,erkek,dusuk,a
+2,kadin,yuksek,a
+3,erkek,yuksek,b
+4,erkek,normal,a
+5,kadin,dusuk,b

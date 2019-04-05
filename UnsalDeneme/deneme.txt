@@ -1,0 +1,2 @@
+Ali,Veli,Deli,1,2
+Ridvan,Orhan,Seyhmus,2,2

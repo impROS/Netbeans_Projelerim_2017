@@ -1,0 +1,12 @@
+id,gelir,egitim,sektor,memnun
+1,normal,orta,bilisim,evet
+2,buyuk,ilk,bilisim,evet
+3,kucuk,ilk,insaat,evet
+4,buyuk,orta,insaat,evet
+5,kucuk,orta,insaat,evet
+6,buyuk,lise,insaat,evet
+7,kucuk,lise,insaat,evet
+8,buyuk,orta,bilisim,hayır
+9,kucuk,orta,bilisim,hayır
+10,buyuk,lise,bilisim,hayır
+11,kucuk,lise,bilisim,hayır
